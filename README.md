@@ -103,5 +103,6 @@ Independent writer, quantum and scientific computing enthusiast.
 
 Released under the MIT License.
 
+(UPDATE July 03, 2026: the images provided are for those who do not access to MATLAB's software.)
 
 (This README.md was written using Notepad on Microsoft Windows Pro 11.)
