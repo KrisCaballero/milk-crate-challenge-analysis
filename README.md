@@ -88,6 +88,7 @@ Kris Caballero
 Independent writer, quantum and scientific computing enthusiast.
 
 * Websites:
+  
          - https://kcuniversal.net
          - https://math.kcuniversal.net
          - https://plus.kcuniversal.net
