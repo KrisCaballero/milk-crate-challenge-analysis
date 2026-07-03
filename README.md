@@ -7,12 +7,12 @@ This repository contains the full package, scientific-computing analysis of the 
 
 milk-crate-challenge-package/
 ## src/
-     ## milk_crate_distribution_of_peak_heights.m
-     ### milk_crate_failure_by_column_histogram.m
-     ### milk_crate_failure_distribution_by_phase_pie_chart.m
-     ### milk_crate_injury_rate_by_surface_bar_graph.m
-     ### milk_crate_success_rate_by_surface_bar.m
-     ### milk_crate_vector_field.m
+     - milk_crate_distribution_of_peak_heights.m
+     - milk_crate_failure_by_column_histogram.m
+     - milk_crate_failure_distribution_by_phase_pie_chart.m
+     - milk_crate_injury_rate_by_surface_bar_graph.m
+     - milk_crate_success_rate_by_surface_bar.m
+     - milk_crate_vector_field.m
 ## data/
      ### milkcrate.csv
 ## images/
