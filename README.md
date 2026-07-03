@@ -45,8 +45,10 @@ Social media trends, like this, is treated as a case study legitimizing as a dat
 - Clone or download the package
 - Launch MATLAB
 - Then run the following code:
+ 
   		```data = readtable('data/milkcrate.csv')
   		milk_crate_distribution_of_peak_heights```
+  
 or you are welcome to run any script individually
 
 Because these scripts plots the findings visually, you can see and/or save the visuals it generates.
