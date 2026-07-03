@@ -14,16 +14,16 @@ milk-crate-challenge-package/
      - milk_crate_success_rate_by_surface_bar.m
      - milk_crate_vector_field.m
 ## data/
-     ### milkcrate.csv
+     - milkcrate.csv
 ## images/
-     ### milk_crate_challenge_2026_distribution_of_peak_heights.png
-     ### milk_crate_challenge_2026_failure_crate_column_histogram.png
-     ### milk_crate_challenge_2026_failure_distribution_by_phase_pie_graph.png
-     ### milk_crate_challenge_2026_injury_surface_bar_graph.png
-     ### milk_crate_challenge_2026_success_surface_bar_graph.png
-     ### milk_crate_challenge_2026_failure_rates_vector_field
+     - milk_crate_challenge_2026_distribution_of_peak_heights.png
+     - milk_crate_challenge_2026_failure_crate_column_histogram.png
+     - milk_crate_challenge_2026_failure_distribution_by_phase_pie_graph.png
+     - milk_crate_challenge_2026_injury_surface_bar_graph.png
+     - milk_crate_challenge_2026_success_surface_bar_graph.png
+     - milk_crate_challenge_2026_failure_rates_vector_field
 ## docs/
-     ### kris_caballero_march_2026_milk_crate_challenge_statistical_findings.pdf
+     - kris_caballero_march_2026_milk_crate_challenge_statistical_findings.pdf
 
 
 * Project Overview
@@ -88,12 +88,12 @@ Kris Caballero
 Independent writer, quantum and scientific computing enthusiast.
 
 * Websites:
-         ### https://kcuniversal.net
-         ### https://math.kcuniversal.net
-         ### https://plus.kcuniversal.net
-         ### https://coding.kcuniversal.net
-         ### https://publishing.kcuniversal.net
-         ### https://kc.kcuniversal.net
+         - https://kcuniversal.net
+         - https://math.kcuniversal.net
+         - https://plus.kcuniversal.net
+         - https://coding.kcuniversal.net
+         - https://publishing.kcuniversal.net
+         - https://kc.kcuniversal.net
 
 
 * License
