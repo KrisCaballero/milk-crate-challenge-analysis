@@ -1,6 +1,6 @@
 # "Milk Crate Challenge - Statistical Analysis with Visualizations in MATLAB"
 
-This repository contains the full package, scientific-computing analysis of the social media trend, taking place in 2021, called the Milk Crate Challenge. Utilizing MATLAB, along with graphical visuals, all data presented have been tallied manually, by hand, from publicly-available videos analyzed with statistical methods, graphs, and a vector field. This is an independent research project demonstrating an end-to-end completion of data science: manual collection of data, cleaning, analyses, and visualization.
+This repository contains the full graphical package, scientific-computing analysis of the social media trend, taking place in 2021, called the Milk Crate Challenge. Utilizing MATLAB, along with graphical visuals, all data presented have been tallied manually, by hand, from publicly-available videos analyzed with statistical methods, graphs, and a vector field. This is an independent research project demonstrating an end-to-end completion of data science: manual collection of data, cleaning, analyses, and visualization.
 
 
 * How the Repository is Structured
