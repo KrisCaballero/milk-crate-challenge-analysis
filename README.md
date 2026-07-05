@@ -35,7 +35,7 @@ This project analyzes and studies physical strategies in part of the social medi
 - Failure distribution by phase (peak, ascent, descent)
 - Frequency of failure by crate column
 - Peak height distribution
-- Failure dynamics represented by a vector field
+- Failure dynamics with a vector field representation
 
 Social media trends, like this, is treated as a case study legitimizing as a data scientific opportunity calculated and summarized using programming tools of today.
 
@@ -49,7 +49,7 @@ Social media trends, like this, is treated as a case study legitimizing as a dat
   		```data = readtable('data/milkcrate.csv')
   		milk_crate_distribution_of_peak_heights```
   
-or you are welcome to run any script individually
+or you can run any script individually
 
 Because these scripts plots the findings visually, you can see and/or save the visuals it generates.
 
@@ -76,7 +76,7 @@ Datasets have been labeled accordingly in abundance of manual tallying of the da
 - PeakHeight
 - Outcome
 - Injury?
--dH_failure
+- dH_failure
 
 
 * Purpose of this Conjecture
